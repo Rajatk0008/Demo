@@ -1,3 +1,3 @@
 # Demo
-<h1>This is my demo repository<h1>
+This is my demo repository
 <br>Hello I am Rajat
